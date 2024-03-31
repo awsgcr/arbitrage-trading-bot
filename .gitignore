@@ -1,0 +1,15 @@
+.idea/**/*
+bin/**/*
+vendor/**/*
+data/*.db
+data/log/*.log
+go.sum
+trace.out
+
+*.csv
+data/*.txt
+
+.DS_Store
+
+pkg/services/trader/*
+docs/grafana.md
